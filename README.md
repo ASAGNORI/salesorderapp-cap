@@ -22,11 +22,11 @@ Na pasta `mtar` deste repositório está o arquivo `mtar` do projeto desenvolvid
 
 1. Acessar site da [api da SAP](https://api.sap.com/api/OP_API_SALES_ORDER_SRV_0001/overview)
 
-<img src="./assets/click-api-key.png" width="500" alt="Clicar em botão para obter api key">
+<img src="./assets/click-api-key.png" width="800" alt="Clicar em botão para obter api key">
 
 2. Clicar no botão `Show API Key`
 
-<img src="./assets/copy-key.png" width="500" alt="Copiar api key">
+<img src="./assets/copy-key.png" width="400" alt="Copiar api key">
 
 3. Selecionar a chave, copiar e fechar a janela (o botão não copia a chave).
 
@@ -44,7 +44,9 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 6. Testar a conexão (pode dar erro 401, mas funciona se a chave estiver correta)
 
-<img src="./assets/destination-check.png" width="500" alt="Verificar conexão">
+<img src="./assets/destination2-check.png" width="400" alt="Verificar conexão 401">
+
+<img src="./assets/destination1-check.png" width="400" alt="Verificar conexão">
 
 ## App Preview
 
