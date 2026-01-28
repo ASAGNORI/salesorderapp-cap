@@ -5,8 +5,8 @@ Aplicação desenvolvida durante curso prático.
 ## Resources
 - [SAP BTP trial account](https://cockpit.hanatrial.ondemand.com/trial/#/home/trial)
 - [SAP Build Apps](https://www.sap.com/products/technology-platform/low-code-app-builder.html)
-- [SAP Build Apps Preview (Android app)](https://play.google.com/store/apps/details?id=com.sap.appgyver.preview.release&hl=pt_PT).
-- [or SAP Build Apps Preview (IOS app)](https://apps.apple.com/us/app/sap-build-apps-preview/id1585856868).
+- [SAP Build Apps Preview (Android app)](https://play.google.com/store/apps/details?id=com.sap.appgyver.preview.release&hl=pt_PT)
+- [or SAP Build Apps Preview (IOS app)](https://apps.apple.com/us/app/sap-build-apps-preview/id1585856868)
 
 ## Purpose
 - Listar ordens de venda.
@@ -39,7 +39,7 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 2. Clicar em `Destinations`.
 3. Clicar em botão `Import Destination` e selecionar arquivo template
 4. Clicar em botão `New Property`
-5. Adicionar chave `URL.headers.apikey` com o valor da API Key copiada do passo anterior
+5. Adicionar chave `URL.headers.apikey` com o valor da API Key copiada do passo anterior:
 
 <img src="./assets/destination-config.png" width="800" alt="Configuração destination">
 
@@ -54,7 +54,9 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 <img src="./assets/salesorder-app.png" width="800" alt="APP Preview">
 
 
-2. Linkedin Post  ( -> [link](https://www.linkedin.com/posts/angelosagnori_sapbtp-sapbuildapps-lab2dev-activity-7294436045159383040-AvVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL20AUBms5unlanoxqks6M_s6LN3KpE4lA))
+## Linkedin Post  
+
+( => [Linkedin](https://www.linkedin.com/posts/angelosagnori_sapbtp-sapbuildapps-lab2dev-activity-7294436045159383040-AvVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL20AUBms5unlanoxqks6M_s6LN3KpE4lA))
 
 <img src="./assets/public-post.png" width="800" alt="Linkedin Post">
 
@@ -64,7 +66,7 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 [![Lab2Dev](https://img.shields.io/badge/LAB2DEV-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lab2dev.com/)
 
-# Contato
+# Meu Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelosagnori/)
 
