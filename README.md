@@ -4,8 +4,9 @@ Aplicação desenvolvida durante curso prático.
 
 ## Resources
 - [SAP BTP trial account](https://cockpit.hanatrial.ondemand.com/trial/#/home/trial)
-- [SAP Build Apps](https://www.sap.com/products/technology-platform/low-code-app-builder.html): 
-- [SAP Build Apps Preview (Android & IOS app)](https://play.google.com/store/apps/details?id=com.sap.appgyver.preview.release&hl=pt_PT) | (https://apps.apple.com/us/app/sap-build-apps-preview/id1585856868).
+- [SAP Build Apps](https://www.sap.com/products/technology-platform/low-code-app-builder.html)
+- [SAP Build Apps Preview (Android app)](https://play.google.com/store/apps/details?id=com.sap.appgyver.preview.release&hl=pt_PT).
+- [or SAP Build Apps Preview (IOS app)](https://apps.apple.com/us/app/sap-build-apps-preview/id1585856868).
 
 ## Purpose
 - Listar ordens de venda.
