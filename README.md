@@ -48,14 +48,14 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 ## App Preview
 
-1. Para acessar o preview do App
+1. Preview do App
 
 <img src="./assets/salesorder-app.png" width="800" alt="APP Preview">
 
 
 2. Linkedin Post  ( -> [link](https://www.linkedin.com/posts/angelosagnori_sapbtp-sapbuildapps-lab2dev-activity-7294436045159383040-AvVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL20AUBms5unlanoxqks6M_s6LN3KpE4lA))
 
-<img src="./assets/public-post.png" width="240" alt="Linkedin Post">
+<img src="./assets/public-post.png" width="800" alt="Linkedin Post">
 
 <br>
 
