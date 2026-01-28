@@ -3,10 +3,10 @@
 #Sat Feb 08 23:56:52 UTC 2025
 Type=HTTP
 HTML5.DynamicDestination=true
-Description=Destination da jornada
+Description=Sales Order Destination
 Authentication=NoAuthentication
 AppgyverEnabled=true
 WebIDEEnabled=true
 ProxyType=Internet
 URL=https\://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SALES_ORDER_SRV
-Name=S4HANA_JORNADA
+Name=SalesOrderAPI
