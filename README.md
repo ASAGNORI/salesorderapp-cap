@@ -55,6 +55,8 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 2. Linkedin Post  ( -> [link](https://www.linkedin.com/posts/angelosagnori_sapbtp-sapbuildapps-lab2dev-activity-7294436045159383040-AvVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL20AUBms5unlanoxqks6M_s6LN3KpE4lA))
 
+<img src="./assets/public-post.png" width="240" alt="Linkedin Post">
+
 <br>
 
 # Créditos
