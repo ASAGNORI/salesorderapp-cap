@@ -49,7 +49,7 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 ## App Preview
 
-1. Preview do App
+1. Preview do App 
 
 <img src="./assets/salesorder-app.png" width="800" alt="APP Preview">
 
