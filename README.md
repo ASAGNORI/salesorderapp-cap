@@ -44,8 +44,6 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 6. Testar a conexão (pode dar erro 401, mas funciona se a chave estiver correta)
 
-<img src="./assets/destination-check2.png" width="300" alt="Verificar conexão 401">
-
 <img src="./assets/destination-check1.png" width="300" alt="Verificar conexão">
 
 ## App Preview
