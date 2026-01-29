@@ -49,7 +49,7 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 
 ## App Preview
 
-1. Preview do App 
+1. Preview Screenshot
 
 <img src="./assets/salesorder-app.png" width="800" alt="APP Preview">
 
@@ -61,10 +61,6 @@ Na pasta `destinations` deste repositório coloquei um arquivo que serve como te
 <img src="./assets/public-post.png" width="800" alt="Linkedin Post">
 
 <br>
-
-# Créditos
-
-[![Lab2Dev](https://img.shields.io/badge/LAB2DEV-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lab2dev.com/)
 
 # Meu Contato
 
